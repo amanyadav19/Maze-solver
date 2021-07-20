@@ -2,7 +2,7 @@
 This uses Q learning to move a player around a maze.
 
 To run the program first add maze to PYTHONPATH. 
-`export PYTHONPATH=<absolute_path_to_maze_directory>$PYTHONPATH.`
+```export PYTHONPATH=<absolute_path_to_maze_directory>:$PYTHONPATH.```
 
 Run the `grid.py` program.
 
